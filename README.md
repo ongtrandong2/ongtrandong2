@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Đông</h1>
 <h3 align="center">A full-stack developer from VietNam</h3>
 
-<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="400" height="400" align="center" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ongtrandong2&label=Profile%20views&color=0e75b6&style=flat" alt="ongtrandong2" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ongtrandong2" alt="ongtrandong2" /></a> </p>
