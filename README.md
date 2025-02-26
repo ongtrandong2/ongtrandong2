@@ -9,9 +9,9 @@
 
 - 💬 Ask me about **dong**
 
-- 📫 How to reach me **ongtrandong2@gmail.com**
+- 📫 How to reach me **dongtd2112@gmail.com**
 
-- ⚡ Fun fact **I think I'm friendly**
+- ⚡ Fun fact ** Make me drunk if you can **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
